@@ -4,7 +4,7 @@
 	<img
 		width="300"
 		alt=""
-		src="https://raw.githubusercontent.com/krisoncode/law-firm/master/assets/project/lav-firm-logo.png?sanitize=true">
+		src="./assets/projecct/law-firm-logo.png">
 </h1>
 
 # Title
