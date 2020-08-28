@@ -1,12 +1,21 @@
 
 
 <div align="center">
-	<h1> Legal Services Website Template</>
+	<h1> Legal Services Website Template</h1>
 	<img
 		height="75"
 		alt=""
 		src="assets/images/project/law-firm-logo.png">
 </div>
+<hr>
+<div align="center">
+	<h5>by</h5>
+	<img
+		height="25"
+		alt=""
+		src="assets/images/project/logo-darken.png">
+</div>
+
 
 
 
