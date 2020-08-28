@@ -22,8 +22,9 @@ Legal services template for the fictional firm of Allwright, Allright and Allwri
 
 <p align="center">
 	<strong>
-        <a href="https://hardcore-goldberg-a17011.netlify.app/index.html">Demo</a>
-		<a href="https://krisoncode.com/">Website</a>
+        <a href="https://hardcore-goldberg-a17011.netlify.app/index.html">Project Demo</a>
+		<br>
+		<a href="https://krisoncode.com/">KrisOnCode</a>
 	</strong>
 </p>
 
@@ -36,30 +37,7 @@ Legal services template for the fictional firm of Allwright, Allright and Allwri
 		height="350"
 		alt=""
 		src="assets/images/project/slider-lead.png">
-</div>
 
-<div align="center">
-
-	<img
-		height="200"
-		alt=""
-		src="assets/images/project/slider-1.png">
-</div>
-
-<div align="center">
-
-	<img
-		height="200"
-		alt=""
-		src="assets/images/project/slider-2.png">
-</div>
-
-<div align="center">
-
-	<img
-		height="200"
-		alt=""
-		src="assets/images/project/slider-3.png">
 </div>
 
 ## Tech/framework used
