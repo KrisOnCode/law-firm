@@ -1,13 +1,14 @@
 
 
 <div align="center">
+	<h1> Legal Services Website Template</>
 	<img
 		height="75"
 		alt=""
 		src="assets/images/project/law-firm-logo.png">
 </div>
 
-# Legal Services Template
+
 
 This is an example file with maximal choices selected.
 
