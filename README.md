@@ -32,12 +32,12 @@ Legal services template for the fictional firm of Allwright, Allright and Allwri
 ## Screenshots
 
 <div align="center">
-
+	<h2>
 	<img
 		height="350"
 		alt=""
 		src="assets/images/project/slider-lead.png">
-
+	</h2>
 </div>
 
 ## Tech/framework used
