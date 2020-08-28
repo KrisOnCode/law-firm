@@ -11,7 +11,7 @@
 <div align="center">
 	<h5>by</h5>
 	<img
-		height="40"
+		height="70"
 		alt=""
 		src="assets/images/project/imagebanner.png">
 </div>
