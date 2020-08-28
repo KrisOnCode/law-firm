@@ -26,7 +26,7 @@ Legal services template for the fictional firm of Allwright, Allright and Allwri
 <div align="center">
 	<h5>by</h5>
 	<img
-		height="250"
+		height="350"
 		alt=""
 		src="assets/images/project/slider-lead.png">
 </div>
