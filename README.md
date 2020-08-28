@@ -22,14 +22,16 @@ Legal services template for the fictional firm of Allwright, Allright and Allwri
 
 
 ## Screenshots
-	<div align="center">
-		<img
-		height="150"
+
+<div align="center">
+	<h5>by</h5>
+	<img
+		height="100"
 		alt=""
 		src="assets/images/project/slider-lead.png">
-	</div>
-	
+</div>
 
+	
 ## Tech/framework used
 
 <b>Built with</b>
