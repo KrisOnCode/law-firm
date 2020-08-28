@@ -1,13 +1,13 @@
-# Allwright Allright Allwrite
 
-<h1 align="center">
+
+<div align="center">
 	<img
 		height="75"
 		alt=""
 		src="assets/images/project/law-firm-logo.png">
-</h1>
+</div>
 
-# Title
+# Legal Services Template
 
 This is an example file with maximal choices selected.
 
