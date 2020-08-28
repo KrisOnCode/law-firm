@@ -24,9 +24,6 @@ Legal services template for the fictional firm of Allwright, Allright and Allwri
 	<strong>
         <a href="https://hardcore-goldberg-a17011.netlify.app/index.html">Demo</a>
 		<a href="https://krisoncode.com/">Website</a>
-	
-
-		
 	</strong>
 </p>
 
