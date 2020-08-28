@@ -45,4 +45,4 @@ Legal services template for the fictional firm of Allwright, Allright and Allwri
 
 ## License
 
-MIT © [Kris Paschal](2020)
+MIT © [Kris Paschal] 2020
