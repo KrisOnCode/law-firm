@@ -4,7 +4,7 @@
 	<img
 		width="300"
 		alt=""
-		src="/assets/projecct/law-firm-logo.png">
+		src="assets/images/project/law-firm-logo.png">
 </h1>
 
 # Title
