@@ -2,7 +2,7 @@
 
 <h1 align="center">
 	<img
-		height="100"
+		height="75"
 		alt=""
 		src="assets/images/project/law-firm-logo.png">
 </h1>
