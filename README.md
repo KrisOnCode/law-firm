@@ -1,6 +1,11 @@
 # Allwright Allright Allwrite
 
-![logo](assets/images/project/law-firm-logo.png)
+<h1 align="center">
+	<img
+		width="300"
+		alt=""
+		src="https://raw.githubusercontent.com/krisoncode/law-firm/master/assets/project/lav-firm-logo.png?sanitize=true">
+</h1>
 
 # Title
 
