@@ -11,7 +11,7 @@
 <div align="center">
 	<h5>by</h5>
 	<img
-		height="25"
+		height="40"
 		alt=""
 		src="assets/images/project/logo-darken.png">
 </div>
