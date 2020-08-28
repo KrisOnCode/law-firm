@@ -3,7 +3,7 @@
 <div align="center">
 	<h1> Legal Services Website Template</h1>
 	<img
-		height="75"
+		height="80"
 		alt=""
 		src="assets/images/project/law-firm-logo.png">
 </div>
@@ -13,7 +13,7 @@
 	<img
 		height="40"
 		alt=""
-		src="assets/images/project/logo-darken.png">
+		src="assets/images/project/imagebanner.png">
 </div>
 
 
