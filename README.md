@@ -27,7 +27,6 @@ Legal services template for the fictional firm of Allwright, Allright and Allwri
 		height="300"
 		alt=""
 		src="assets/images/project/slider-lead.png">
-	<row>
 		<col>
 		<img
 		height="300"
@@ -49,8 +48,6 @@ Legal services template for the fictional firm of Allwright, Allright and Allwri
 		src="assets/images/project/slider-3.png">
 		
 		</col>
-	
-	</row>
 	</div>
 	
 
