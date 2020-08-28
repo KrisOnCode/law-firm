@@ -23,9 +23,8 @@ Legal services template for the fictional firm of Allwright, Allright and Allwri
 
 ## Screenshots
 <div align="center">
-	<h1> Legal Services Website Template</h1>
 	<img
-		height="80"
+		height="300"
 		alt=""
 		src="assets/images/project/slider-lead.png">
 	</div>
