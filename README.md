@@ -13,7 +13,7 @@
 	<img
 		height="70"
 		alt=""
-		src="assets/images/project/imagebanner.png">
+		src="assets/images/project/logobanner.png">
 </div>
 
 
